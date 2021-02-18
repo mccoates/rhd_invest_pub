@@ -1,0 +1,85 @@
+rei_name,rei_id,risk_level,parent,lowest_risk,risk_level_1,risk_level_2,risk_level_3,risk_level_4
+"Unsafe water, sanitation, and handwashing",82,2,Environmental/occupational risks,0,Environmental/occupational risks,"Unsafe water, sanitation, and handwashing",NA,NA
+Unsafe water source,83,3,"Unsafe water, sanitation, and handwashing",1,Environmental/occupational risks,"Unsafe water, sanitation, and handwashing",Unsafe water source,NA
+Unsafe sanitation,84,3,"Unsafe water, sanitation, and handwashing",1,Environmental/occupational risks,"Unsafe water, sanitation, and handwashing",Unsafe sanitation,NA
+Air pollution,85,2,Environmental/occupational risks,0,Environmental/occupational risks,Air pollution,NA,NA
+Ambient particulate matter pollution,86,4,Air pollution,1,Environmental/occupational risks,Air pollution,Ambient particulate matter pollution,NA
+Household air pollution from solid fuels,87,4,Air pollution,1,Environmental/occupational risks,Air pollution,Household air pollution from solid fuels,NA
+Ambient ozone pollution,88,3,Air pollution,1,Environmental/occupational risks,Air pollution,Ambient ozone pollution,NA
+Other environmental risks,89,2,Environmental/occupational risks,0,Environmental/occupational risks,Other environmental risks,NA,NA
+Residential radon,90,3,Other environmental risks,1,Environmental/occupational risks,Other environmental risks,Residential radon,NA
+Lead exposure,91,3,Other environmental risks,1,Environmental/occupational risks,Other environmental risks,Lead exposure,NA
+Child and maternal malnutrition,92,2,Behavioral risks,0,Behavioral risks,Child and maternal malnutrition,NA,NA
+Suboptimal breastfeeding,93,3,Child and maternal malnutrition,0,Behavioral risks,Child and maternal malnutrition,Suboptimal breastfeeding,NA
+Child underweight,94,4,Child growth failure,1,Behavioral risks,Child and maternal malnutrition,Child growth failure,Child underweight
+Iron deficiency,95,3,Child and maternal malnutrition,1,Behavioral risks,Child and maternal malnutrition,Iron deficiency,NA
+Vitamin A deficiency,96,3,Child and maternal malnutrition,1,Behavioral risks,Child and maternal malnutrition,Vitamin A deficiency,NA
+Zinc deficiency,97,3,Child and maternal malnutrition,1,Behavioral risks,Child and maternal malnutrition,Zinc deficiency,NA
+Tobacco,98,2,Behavioral risks,0,Behavioral risks,Tobacco,NA,NA
+Smoking,99,3,Tobacco,1,Behavioral risks,Tobacco,Smoking,NA
+Secondhand smoke,100,3,Tobacco,1,Behavioral risks,Tobacco,Secondhand smoke,NA
+Alcohol use,102,2,Behavioral risks,1,Behavioral risks,Alcohol use,NA,NA
+Drug use,103,2,Behavioral risks,1,Behavioral risks,Alcohol use,NA,NA
+Metabolic risks,104,1,All risk factors,0,Metabolic risks,NA,NA,NA
+High fasting plasma glucose,105,2,Metabolic risks,1,Metabolic risks,High fasting plasma glucose,NA,NA
+High systolic blood pressure,107,2,Metabolic risks,1,Metabolic risks,High systolic blood pressure,NA,NA
+High body-mass index,108,2,Metabolic risks,1,Metabolic risks,High body-mass index,NA,NA
+Low bone mineral density,109,2,Metabolic risks,1,Metabolic risks,Low bone mineral density,NA,NA
+Dietary risks,110,2,Behavioral risks,0,Behavioral risks,Dietary risks,NA,NA
+Diet low in fruits,111,3,Dietary risks,1,Behavioral risks,Dietary risks,Diet low in fruits,NA
+Diet low in vegetables,112,3,Dietary risks,1,Behavioral risks,Dietary risks,Diet low in vegetables,NA
+Diet low in whole grains,113,3,Dietary risks,1,Behavioral risks,Dietary risks,Diet low in whole grains,NA
+Diet low in nuts and seeds,114,3,Dietary risks,1,Behavioral risks,Dietary risks,Diet low in nuts and seeds,NA
+Diet low in milk,115,3,Dietary risks,1,Behavioral risks,Dietary risks,Diet low in milk,NA
+Diet high in red meat,116,3,Dietary risks,1,Behavioral risks,Dietary risks,Diet high in red meat,NA
+Diet high in processed meat,117,3,Dietary risks,1,Behavioral risks,Dietary risks,Diet high in processed meat,NA
+Diet high in sugar-sweetened beverages,118,3,Dietary risks,1,Behavioral risks,Dietary risks,Diet high in sugar-sweetened beverages,NA
+Diet low in fiber,119,3,Dietary risks,1,Behavioral risks,Dietary risks,Diet low in fiber,NA
+Diet low in seafood omega-3 fatty acids,121,3,Dietary risks,1,Behavioral risks,Dietary risks,Diet low in seafood omega-3 fatty acids,NA
+Diet low in polyunsaturated fatty acids,122,3,Dietary risks,1,Behavioral risks,Dietary risks,Diet low in polyunsaturated fatty acids,NA
+Diet high in trans fatty acids,123,3,Dietary risks,1,Behavioral risks,Dietary risks,Diet high in trans fatty acids,NA
+Diet high in sodium,124,3,Dietary risks,1,Behavioral risks,Dietary risks,Diet high in sodium,NA
+Low physical activity,125,2,Behavioral risks,1,Behavioral risks,Low physical activity,NA,NA
+Occupational risks,126,2,Environmental/occupational risks,0,Environmental/occupational risks,Occupational risks,NA,NA
+Occupational carcinogens,127,3,Occupational risks,0,Environmental/occupational risks,Occupational risks,Occupational carcinogens,NA
+Occupational asthmagens,128,3,Occupational risks,1,Environmental/occupational risks,Occupational risks,Occupational asthmagens,NA
+"Occupational particulate matter, gases, and fumes",129,3,Occupational risks,1,Environmental/occupational risks,Occupational risks,"Occupational particulate matter, gases, and fumes",NA
+Occupational noise,130,3,Occupational risks,1,Environmental/occupational risks,Occupational risks,Occupational noise,NA
+Occupational injuries,131,3,Occupational risks,1,Environmental/occupational risks,Occupational risks,Occupational injuries,NA
+Occupational ergonomic factors,132,3,Occupational risks,1,Environmental/occupational risks,Occupational risks,Occupational ergonomic factors,NA
+Childhood sexual abuse,134,3,Childhood maltreatment,1,Behavioral risks,Childhood maltreatment,Childhood sexual abuse,NA
+Intimate partner violence,135,2,Sexual abuse and violence,1,Behavioral risks,Intimate partner violence,NA,NA
+Non-exclusive breastfeeding,136,4,Suboptimal breastfeeding,1,Behavioral risks,Child and maternal malnutrition,Suboptimal breastfeeding,Non-exclusive breastfeeding
+Discontinued breastfeeding,137,4,Suboptimal breastfeeding,1,Behavioral risks,Child and maternal malnutrition,Suboptimal breastfeeding,Discontinued breastfeeding
+Diet low in calcium,147,3,Dietary risks,1,Behavioral risks,Dietary risks,Diet low in calcium,NA
+Occupational exposure to asbestos,150,4,Occupational carcinogens,1,Environmental/occupational risks,Occupational risks,Occupational carcinogens,Occupational exposure to asbestos
+Occupational exposure to arsenic,151,4,Occupational carcinogens,1,Environmental/occupational risks,Occupational risks,Occupational carcinogens,Occupational exposure to arsenic
+Occupational exposure to benzene,152,4,Occupational carcinogens,1,Environmental/occupational risks,Occupational risks,Occupational carcinogens,Occupational exposure to benzene
+Occupational exposure to beryllium,153,4,Occupational carcinogens,1,Environmental/occupational risks,Occupational risks,Occupational carcinogens,Occupational exposure to beryllium
+Occupational exposure to cadmium,154,4,Occupational carcinogens,1,Environmental/occupational risks,Occupational risks,Occupational carcinogens,Occupational exposure to cadmium
+Occupational exposure to chromium,155,4,Occupational carcinogens,1,Environmental/occupational risks,Occupational risks,Occupational carcinogens,Occupational exposure to chromium
+Occupational exposure to diesel engine exhaust,156,4,Occupational carcinogens,1,Environmental/occupational risks,Occupational risks,Occupational carcinogens,Occupational exposure to diesel engine exhaust
+Occupational exposure to formaldehyde,158,4,Occupational carcinogens,1,Environmental/occupational risks,Occupational risks,Occupational carcinogens,Occupational exposure to formaldehyde
+Occupational exposure to nickel,159,4,Occupational carcinogens,1,Environmental/occupational risks,Occupational risks,Occupational carcinogens,Occupational exposure to nickel
+Occupational exposure to polycyclic aromatic hydrocarbons,160,4,Occupational carcinogens,1,Environmental/occupational risks,Occupational risks,Occupational carcinogens,Occupational exposure to polycyclic aromatic hydrocarbons
+Occupational exposure to silica,161,4,Occupational carcinogens,1,Environmental/occupational risks,Occupational risks,Occupational carcinogens,Occupational exposure to silica
+Occupational exposure to sulfuric acid,162,4,Occupational carcinogens,1,Environmental/occupational risks,Occupational risks,Occupational carcinogens,Occupational exposure to sulfuric acid
+All risk factors,169,0,,0,NA,NA,NA,NA
+Unsafe sex,170,2,Behavioral risks,1,Behavioral risks,Unsafe sex,NA,NA
+Environmental/occupational risks,202,1,All risk factors,0,Environmental/occupational risks,NA,NA,NA
+Behavioral risks,203,1,All risk factors,0,Behavioral risks,NA,NA,NA
+Occupational exposure to trichloroethylene,237,4,Occupational carcinogens,1,Environmental/occupational risks,Occupational risks,Occupational carcinogens,Occupational exposure to trichloroethylene
+No access to handwashing facility,238,3,"Unsafe water, sanitation, and handwashing",1,Environmental/occupational risks,"Unsafe water, sanitation, and handwashing",No access to handwashing facility,NA
+Child growth failure,239,3,Child and maternal malnutrition,0,Behavioral risks,Child and maternal malnutrition,Child growth failure,NA
+Child wasting,240,4,Child growth failure,1,Behavioral risks,Child and maternal malnutrition,Child growth failure,Child wasting
+Child stunting,241,4,Child growth failure,1,Behavioral risks,Child and maternal malnutrition,Child growth failure,Child stunting
+Chewing tobacco,332,3,Tobacco,1,Behavioral risks,Tobacco,Smokeless tobacco,NA
+Diet low in legumes,333,3,Dietary risks,1,Behavioral risks,Dietary risks,Diet low in legumes,NA
+Short gestation for birth weight,334,4,Low birth weight and short gestation,1,Behavioral risks,Child and maternal malnutrition,Low birth weight and short gestation,Short gestation for birth weight
+Low birth weight for gestation,335,4,Low birth weight and short gestation,1,Behavioral risks,Child and maternal malnutrition,Low birth weight and short gestation,Low birth weight for gestation
+Low birth weight and short gestation,339,3,Child and maternal malnutrition,0,Behavioral risks,Child and maternal malnutrition,Low birth weight and short gestation,NA
+Impaired kidney function,341,2,Metabolic risks,1,Metabolic risks,Impaired kidney function,NA,NA
+Bullying victimization,363,3,Childhood maltreatment,1,Behavioral risks,Childhood maltreatment,Bullying victimization,NA
+High LDL cholesterol,367,2,Metabolic risks,1,Metabolic risks,High LDL cholesterol,NA,NA
+Particulate matter pollution,380,3,Air pollution,0,Environmental/occupational risks,Air pollution,Particulate matter pollution,NA
+Childhood maltreatment,381,2,Behavioral risks,0,Behavioral risks,Childhood maltreatment,NA,NA

@@ -1,0 +1,37 @@
+age_group_id,age_group_name
+1,Under 5
+2,Early Neonatal
+3,Late Neonatal
+4,Post Neonatal
+5,1 to 4
+6,5 to 9
+7,10 to 14
+8,15 to 19
+9,20 to 24
+10,25 to 29
+11,30 to 34
+12,35 to 39
+13,40 to 44
+14,45 to 49
+15,50 to 54
+16,55 to 59
+17,60 to 64
+18,65 to 69
+19,70 to 74
+20,75 to 79
+21,80 plus
+22,All Ages
+23,5-14 years
+24,15-49 years
+25,50-69 years
+26,70+ years
+27,Age-standardized
+28,<1 year
+30,80 to 84
+31,85 to 89
+32,90 to 94
+158,<20 years
+159,10 to 24
+162,10 to 19
+169,10 to 54
+235,95 plus

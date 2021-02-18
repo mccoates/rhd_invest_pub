@@ -1,0 +1,7 @@
+measure_id,measure_name,measure_name_long
+4,YLLs,YLLs (Years of Life Lost)
+2,DALYs,DALYs (Disability-Adjusted Life Years)
+5,Prevalence,Prevalence
+6,Incidence,Incidence
+1,Deaths,Deaths
+3,YLDs,YLDs (Years Lived with Disability)

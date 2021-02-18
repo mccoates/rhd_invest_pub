@@ -1,0 +1,361 @@
+cause_id,cause_name
+349,Cutaneous and mucocutaneous leishmaniasis
+350,African trypanosomiasis
+351,Schistosomiasis
+352,Cysticercosis
+353,Cystic echinococcosis
+354,Lymphatic filariasis
+355,Onchocerciasis
+356,Trachoma
+357,Dengue
+358,Yellow fever
+359,Rabies
+360,Intestinal nematode infections
+294,All causes
+295,"Communicable, maternal, neonatal, and nutritional diseases"
+297,Tuberculosis
+298,HIV/AIDS
+300,HIV/AIDS resulting in other diseases
+302,Diarrheal diseases
+319,Typhoid fever
+320,Paratyphoid fever
+321,Other intestinal infectious diseases
+322,Lower respiratory infections
+328,Upper respiratory infections
+329,Otitis media
+361,Ascariasis
+362,Trichuriasis
+363,Hookworm disease
+364,Food-borne trematodiases
+365,Other neglected tropical diseases
+366,Maternal disorders
+367,Maternal hemorrhage
+368,Maternal sepsis and other maternal infections
+369,Maternal hypertensive disorders
+370,Maternal obstructed labor and uterine rupture
+374,Ectopic pregnancy
+375,Indirect maternal deaths
+376,Late maternal deaths
+379,Other maternal disorders
+380,Neonatal disorders
+381,Neonatal preterm birth
+382,Neonatal encephalopathy due to birth asphyxia and trauma
+522,Cirrhosis and other chronic liver diseases due to hepatitis B
+523,Cirrhosis and other chronic liver diseases due to hepatitis C
+524,Cirrhosis and other chronic liver diseases due to alcohol use
+525,Cirrhosis and other chronic liver diseases due to other causes
+526,Digestive diseases
+527,Peptic ulcer disease
+528,Gastritis and duodenitis
+332,Meningitis
+333,Pneumococcal meningitis
+334,H influenzae type B meningitis
+335,Meningococcal meningitis
+336,Other meningitis
+337,Encephalitis
+338,Diphtheria
+339,Whooping cough
+340,Tetanus
+341,Measles
+342,Varicella and herpes zoster
+344,Neglected tropical diseases and malaria
+345,Malaria
+346,Chagas disease
+347,Leishmaniasis
+348,Visceral leishmaniasis
+489,Other malignant neoplasms
+490,Other neoplasms
+491,Cardiovascular diseases
+492,Rheumatic heart disease
+493,Ischemic heart disease
+494,Stroke
+529,Appendicitis
+530,Paralytic ileus and intestinal obstruction
+531,"Inguinal, femoral, and abdominal hernia"
+532,Inflammatory bowel disease
+533,Vascular intestinal disorders
+534,Gallbladder and biliary diseases
+535,Pancreatitis
+536,Gastroesophageal reflux disease
+541,Other digestive diseases
+542,Neurological disorders
+543,Alzheimer's disease and other dementias
+544,Parkinson's disease
+545,Epilepsy
+546,Multiple sclerosis
+547,Migraine
+548,Tension-type headache
+554,Motor neuron disease
+557,Other neurological disorders
+558,Mental disorders
+559,Schizophrenia
+560,Alcohol use disorders
+679,Other sense organ diseases
+680,Oral disorders
+495,Ischemic stroke
+496,Intracerebral hemorrhage
+497,Subarachnoid hemorrhage
+498,Hypertensive heart disease
+499,Cardiomyopathy and myocarditis
+500,Atrial fibrillation and flutter
+501,Aortic aneurysm
+502,Peripheral artery disease
+503,Endocarditis
+504,Non-rheumatic valvular heart disease
+507,Other cardiovascular and circulatory diseases
+508,Chronic respiratory diseases
+509,Chronic obstructive pulmonary disease
+510,Pneumoconiosis
+511,Silicosis
+512,Asbestosis
+513,Coal workers pneumoconiosis
+514,Other pneumoconiosis
+515,Asthma
+516,Interstitial lung disease and pulmonary sarcoidosis
+520,Other chronic respiratory diseases
+521,Cirrhosis and other chronic liver diseases
+645,Down syndrome
+419,Liver cancer due to hepatitis C
+420,Liver cancer due to alcohol use
+421,Liver cancer due to other causes
+423,Larynx cancer
+426,"Tracheal, bronchus, and lung cancer"
+429,Breast cancer
+432,Cervical cancer
+435,Uterine cancer
+438,Prostate cancer
+441,Colon and rectum cancer
+444,Lip and oral cavity cancer
+681,Caries of deciduous teeth
+682,Caries of permanent teeth
+683,Periodontal diseases
+684,Edentulism and severe tooth loss
+685,Other oral disorders
+686,Sudden infant death syndrome
+687,Injuries
+688,Transport injuries
+689,Road injuries
+690,Pedestrian road injuries
+691,Cyclist road injuries
+692,Motorcyclist road injuries
+693,Motor vehicle road injuries
+694,Other road injuries
+695,Other transport injuries
+696,Unintentional injuries
+697,Falls
+698,Drowning
+699,"Fire, heat, and hot substances"
+700,Poisonings
+701,Poisoning by carbon monoxide
+703,Poisoning by other means
+704,Exposure to mechanical forces
+646,Turner syndrome
+647,Klinefelter syndrome
+648,Other chromosomal abnormalities
+649,Congenital musculoskeletal and limb anomalies
+650,Urogenital congenital anomalies
+651,Digestive congenital anomalies
+652,Other congenital birth defects
+653,Skin and subcutaneous diseases
+654,Dermatitis
+655,Psoriasis
+656,Cellulitis
+657,Pyoderma
+658,Scabies
+659,Fungal skin diseases
+660,Viral skin diseases
+661,Acne vulgaris
+662,Alopecia areata
+663,Pruritus
+664,Urticaria
+665,Decubitus ulcer
+668,Other skin and subcutaneous diseases
+669,Sense organ diseases
+670,Glaucoma
+705,Unintentional firearm injuries
+707,Other exposure to mechanical forces
+708,Adverse effects of medical treatment
+709,Animal contact
+447,Nasopharynx cancer
+450,Other pharynx cancer
+453,Gallbladder and biliary tract cancer
+456,Pancreatic cancer
+459,Malignant skin melanoma
+462,Non-melanoma skin cancer
+465,Ovarian cancer
+468,Testicular cancer
+471,Kidney cancer
+474,Bladder cancer
+477,Brain and central nervous system cancer
+480,Thyroid cancer
+483,Mesothelioma
+484,Hodgkin lymphoma
+485,Non-Hodgkin lymphoma
+486,Multiple myeloma
+487,Leukemia
+598,Male infertility
+602,Other urinary diseases
+603,Gynecological diseases
+604,Uterine fibroids
+605,Polycystic ovarian syndrome
+606,Female infertility
+671,Cataract
+672,Age-related macular degeneration
+674,Age-related and other hearing loss
+675,Other vision loss
+970,Other non-rheumatic valve diseases
+971,Cirrhosis due to NASH
+972,Headache disorders
+973,Substance use disorders
+974,Diabetes and kidney diseases
+975,Diabetes mellitus type 1
+976,Diabetes mellitus type 2
+977,Atopic dermatitis
+978,Contact dermatitis
+979,Seborrhoeic dermatitis
+980,Bacterial skin diseases
+981,Blindness and vision impairment
+992,Upper digestive system diseases
+995,Maternal abortion and miscarriage
+996,Liver cancer due to NASH
+997,Chronic kidney disease due to diabetes mellitus type 1
+998,Chronic kidney disease due to diabetes mellitus type 2
+999,Refraction disorders
+1000,Near vision loss
+383,Neonatal sepsis and other neonatal infections
+384,Hemolytic disease and other neonatal jaundice
+385,Other neonatal disorders
+386,Nutritional deficiencies
+387,Protein-energy malnutrition
+388,Iodine deficiency
+389,Vitamin A deficiency
+390,Dietary iron deficiency
+391,Other nutritional deficiencies
+393,Sexually transmitted infections excluding HIV
+394,Syphilis
+395,Chlamydial infection
+396,Gonococcal infection
+397,Trichomoniasis
+398,Genital herpes
+399,Other sexually transmitted infections
+400,Acute hepatitis
+401,Acute hepatitis A
+402,Acute hepatitis B
+403,Acute hepatitis C
+404,Acute hepatitis E
+405,Leprosy
+408,Other unspecified infectious diseases
+607,Endometriosis
+608,Genital prolapse
+609,Premenstrual syndrome
+612,Other gynecological diseases
+613,Hemoglobinopathies and hemolytic anemias
+614,Thalassemias
+615,Sickle cell disorders
+616,G6PD deficiency
+618,Other hemoglobinopathies and hemolytic anemias
+619,"Endocrine, metabolic, blood, and immune disorders"
+626,Musculoskeletal disorders
+627,Rheumatoid arthritis
+628,Osteoarthritis
+630,Low back pain
+631,Neck pain
+632,Gout
+639,Other musculoskeletal disorders
+640,Other non-communicable diseases
+641,Congenital birth defects
+642,Neural tube defects
+643,Congenital heart anomalies
+644,Orofacial clefts
+934,Drug-susceptible tuberculosis
+409,Non-communicable diseases
+410,Neoplasms
+411,Esophageal cancer
+414,Stomach cancer
+417,Liver cancer
+418,Liver cancer due to hepatitis B
+561,Drug use disorders
+562,Opioid use disorders
+563,Cocaine use disorders
+564,Amphetamine use disorders
+565,Cannabis use disorders
+566,Other drug use disorders
+567,Depressive disorders
+568,Major depressive disorder
+569,Dysthymia
+570,Bipolar disorder
+571,Anxiety disorders
+572,Eating disorders
+573,Anorexia nervosa
+574,Bulimia nervosa
+575,Autism spectrum disorders
+578,Attention-deficit/hyperactivity disorder
+579,Conduct disorder
+582,Idiopathic developmental intellectual disability
+585,Other mental disorders
+935,Zika virus
+936,Guinea worm disease
+938,Alcoholic cardiomyopathy
+941,Sexual violence
+942,Myocarditis
+943,Other leukemia
+944,Other cardiomyopathy
+945,Conflict and terrorism
+946,Multidrug-resistant tuberculosis without extensive drug resistance
+947,Extensively drug-resistant tuberculosis
+948,HIV/AIDS - Drug-susceptible Tuberculosis
+949,HIV/AIDS - Multidrug-resistant Tuberculosis without extensive drug resistance
+950,HIV/AIDS - Extensively drug-resistant Tuberculosis
+954,Latent tuberculosis infection
+955,HIV/AIDS and sexually transmitted infections
+956,Respiratory infections and tuberculosis
+957,Enteric infections
+958,Typhoid and paratyphoid
+959,Invasive Non-typhoidal Salmonella (iNTS)
+961,Other infectious diseases
+962,Maternal and neonatal disorders
+964,"Myelodysplastic, myeloproliferative, and other hematopoietic neoplasms"
+965,Benign and in situ intestinal neoplasms
+587,Diabetes mellitus
+588,Acute glomerulonephritis
+589,Chronic kidney disease
+591,Chronic kidney disease due to hypertension
+592,Chronic kidney disease due to glomerulonephritis
+593,Chronic kidney disease due to other and unspecified causes
+594,Urinary diseases and male infertility
+595,Urinary tract infections
+596,Urolithiasis
+597,Benign prostatic hyperplasia
+710,Venomous animal contact
+711,Non-venomous animal contact
+712,Foreign body
+713,Pulmonary aspiration and foreign body in airway
+714,Foreign body in eyes
+715,Foreign body in other body part
+716,Other unintentional injuries
+717,Self-harm and interpersonal violence
+718,Self-harm
+721,Self-harm by firearm
+723,Self-harm by other specified means
+724,Interpersonal violence
+725,Physical violence by firearm
+966,Benign and in situ cervical and uterine neoplasms
+967,Other benign and in situ neoplasms
+968,Non-rheumatic calcific aortic valve disease
+969,Non-rheumatic degenerative mitral valve disease
+726,Physical violence by sharp object
+727,Physical violence by other means
+729,Exposure to forces of nature
+741,Maternal deaths aggravated by HIV/AIDS
+837,Thalassemias trait
+838,Sickle cell trait
+839,G6PD trait
+842,Environmental heat and cold exposure
+843,Ebola
+845,Acute lymphoid leukemia
+846,Chronic lymphoid leukemia
+847,Acute myeloid leukemia
+848,Chronic myeloid leukemia
+849,Non-melanoma skin cancer (squamous-cell carcinoma)
+850,Non-melanoma skin cancer (basal-cell carcinoma)
+854,Executions and police conflict

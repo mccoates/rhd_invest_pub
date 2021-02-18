@@ -1,0 +1,470 @@
+location_id,location_name,parent_id,level,sort_order
+1,Global,1,0,1
+44637,Low SDI,1,1,2
+44636,Low-middle SDI,1,1,3
+44639,Middle SDI,1,1,4
+44634,High-middle SDI,1,1,5
+44635,High SDI,1,1,6
+31,"Central Europe, Eastern Europe, and Central Asia",1,1,7
+32,Central Asia,31,2,8
+33,Armenia,32,3,9
+34,Azerbaijan,32,3,10
+35,Georgia,32,3,11
+36,Kazakhstan,32,3,12
+37,Kyrgyzstan,32,3,13
+38,Mongolia,32,3,14
+39,Tajikistan,32,3,15
+40,Turkmenistan,32,3,16
+41,Uzbekistan,32,3,17
+42,Central Europe,31,2,18
+43,Albania,42,3,19
+44,Bosnia and Herzegovina,42,3,20
+45,Bulgaria,42,3,21
+46,Croatia,42,3,22
+47,Czech Republic,42,3,23
+48,Hungary,42,3,24
+49,Macedonia,42,3,25
+50,Montenegro,42,3,26
+51,Poland,42,3,27
+52,Romania,42,3,28
+53,Serbia,42,3,29
+54,Slovakia,42,3,30
+55,Slovenia,42,3,31
+56,Eastern Europe,31,2,32
+57,Belarus,56,3,33
+58,Estonia,56,3,34
+59,Latvia,56,3,35
+60,Lithuania,56,3,36
+61,Moldova,56,3,37
+62,Russian Federation,56,3,38
+63,Ukraine,56,3,39
+64,High-income,1,1,40
+70,Australasia,64,2,41
+71,Australia,70,3,42
+72,New Zealand,70,3,43
+65,High-income Asia Pacific,64,2,44
+66,Brunei,65,3,45
+67,Japan,65,3,46
+35446,Aichi,67,4,47
+35428,Akita,67,4,48
+35425,Aomori,67,4,49
+35435,Chiba,67,4,50
+35461,Ehime,67,4,51
+35441,Fukui,67,4,52
+35463,Fukuoka,67,4,53
+35430,Fukushima,67,4,54
+35444,Gifu,67,4,55
+35433,Gunma,67,4,56
+35457,Hiroshima,67,4,57
+35424,Hokkaid?,67,4,58
+35451,Hy?go,67,4,59
+35431,Ibaraki,67,4,60
+35440,Ishikawa,67,4,61
+35426,Iwate,67,4,62
+35460,Kagawa,67,4,63
+35469,Kagoshima,67,4,64
+35437,Kanagawa,67,4,65
+35462,K?chi,67,4,66
+35466,Kumamoto,67,4,67
+35449,Ky?to,67,4,68
+35447,Mie,67,4,69
+35427,Miyagi,67,4,70
+35468,Miyazaki,67,4,71
+35443,Nagano,67,4,72
+35465,Nagasaki,67,4,73
+35452,Nara,67,4,74
+35438,Niigata,67,4,75
+35467,?ita,67,4,76
+35456,Okayama,67,4,77
+35470,Okinawa,67,4,78
+35450,?saka,67,4,79
+35464,Saga,67,4,80
+35434,Saitama,67,4,81
+35448,Shiga,67,4,82
+35455,Shimane,67,4,83
+35445,Shizuoka,67,4,84
+35432,Tochigi,67,4,85
+35459,Tokushima,67,4,86
+35436,T?ky?,67,4,87
+35454,Tottori,67,4,88
+35439,Toyama,67,4,89
+35453,Wakayama,67,4,90
+35429,Yamagata,67,4,91
+35458,Yamaguchi,67,4,92
+35442,Yamanashi,67,4,93
+68,South Korea,65,3,94
+69,Singapore,65,3,95
+100,High-income North America,64,2,96
+101,Canada,100,3,97
+349,Greenland,100,3,98
+102,United States,100,3,99
+523,Alabama,102,4,100
+524,Alaska,102,4,101
+525,Arizona,102,4,102
+526,Arkansas,102,4,103
+527,California,102,4,104
+528,Colorado,102,4,105
+529,Connecticut,102,4,106
+530,Delaware,102,4,107
+531,District of Columbia,102,4,108
+532,Florida,102,4,109
+533,Georgia,102,4,110
+534,Hawaii,102,4,111
+535,Idaho,102,4,112
+536,Illinois,102,4,113
+537,Indiana,102,4,114
+538,Iowa,102,4,115
+539,Kansas,102,4,116
+540,Kentucky,102,4,117
+541,Louisiana,102,4,118
+542,Maine,102,4,119
+543,Maryland,102,4,120
+544,Massachusetts,102,4,121
+545,Michigan,102,4,122
+546,Minnesota,102,4,123
+547,Mississippi,102,4,124
+548,Missouri,102,4,125
+549,Montana,102,4,126
+550,Nebraska,102,4,127
+551,Nevada,102,4,128
+552,New Hampshire,102,4,129
+553,New Jersey,102,4,130
+554,New Mexico,102,4,131
+555,New York,102,4,132
+556,North Carolina,102,4,133
+557,North Dakota,102,4,134
+558,Ohio,102,4,135
+559,Oklahoma,102,4,136
+560,Oregon,102,4,137
+561,Pennsylvania,102,4,138
+562,Rhode Island,102,4,139
+563,South Carolina,102,4,140
+564,South Dakota,102,4,141
+565,Tennessee,102,4,142
+566,Texas,102,4,143
+567,Utah,102,4,144
+568,Vermont,102,4,145
+569,Virginia,102,4,146
+570,Washington,102,4,147
+571,West Virginia,102,4,148
+572,Wisconsin,102,4,149
+573,Wyoming,102,4,150
+96,Southern Latin America,64,2,151
+97,Argentina,96,3,152
+98,Chile,96,3,153
+99,Uruguay,96,3,154
+73,Western Europe,64,2,155
+74,Andorra,73,3,156
+75,Austria,73,3,157
+76,Belgium,73,3,158
+77,Cyprus,73,3,159
+78,Denmark,73,3,160
+79,Finland,73,3,161
+80,France,73,3,162
+81,Germany,73,3,163
+82,Greece,73,3,164
+83,Iceland,73,3,165
+84,Ireland,73,3,166
+85,Israel,73,3,167
+86,Italy,73,3,168
+87,Luxembourg,73,3,169
+88,Malta,73,3,170
+89,Netherlands,73,3,171
+90,Norway,73,3,172
+91,Portugal,73,3,173
+92,Spain,73,3,174
+93,Sweden,73,3,175
+4944,Stockholm,93,4,176
+4940,Sweden except Stockholm,93,4,177
+94,Switzerland,73,3,178
+95,United Kingdom,73,3,179
+4749,England,95,4,180
+4621,East Midlands,4749,5,181
+4623,East of England,4749,5,182
+4624,Greater London,4749,5,183
+4618,North East England,4749,5,184
+4619,North West England,4749,5,185
+4625,South East England,4749,5,186
+4626,South West England,4749,5,187
+4622,West Midlands,4749,5,188
+4620,Yorkshire and the Humber,4749,5,189
+433,Northern Ireland,95,4,190
+434,Scotland,95,4,191
+4636,Wales,95,4,192
+103,Latin America and Caribbean,1,1,193
+120,Andean Latin America,103,2,194
+121,Bolivia,120,3,195
+122,Ecuador,120,3,196
+123,Peru,120,3,197
+104,Caribbean,103,2,198
+105,Antigua and Barbuda,104,3,199
+106,The Bahamas,104,3,200
+107,Barbados,104,3,201
+108,Belize,104,3,202
+305,Bermuda,104,3,203
+109,Cuba,104,3,204
+110,Dominica,104,3,205
+111,Dominican Republic,104,3,206
+112,Grenada,104,3,207
+113,Guyana,104,3,208
+114,Haiti,104,3,209
+115,Jamaica,104,3,210
+385,Puerto Rico,104,3,211
+116,Saint Lucia,104,3,212
+117,Saint Vincent and the Grenadines,104,3,213
+118,Suriname,104,3,214
+119,Trinidad and Tobago,104,3,215
+422,"Virgin Islands, U.S.",104,3,216
+124,Central Latin America,103,2,217
+125,Colombia,124,3,218
+126,Costa Rica,124,3,219
+127,El Salvador,124,3,220
+128,Guatemala,124,3,221
+129,Honduras,124,3,222
+130,Mexico,124,3,223
+4643,Aguascalientes,130,4,224
+4644,Baja California,130,4,225
+4645,Baja California Sur,130,4,226
+4646,Campeche,130,4,227
+4649,Chiapas,130,4,228
+4650,Chihuahua,130,4,229
+4647,Coahuila,130,4,230
+4648,Colima,130,4,231
+4652,Durango,130,4,232
+4653,Guanajuato,130,4,233
+4654,Guerrero,130,4,234
+4655,Hidalgo,130,4,235
+4656,Jalisco,130,4,236
+4657,México,130,4,237
+4651,Mexico City,130,4,238
+4658,Michoacán de Ocampo,130,4,239
+4659,Morelos,130,4,240
+4660,Nayarit,130,4,241
+4661,Nuevo León,130,4,242
+4662,Oaxaca,130,4,243
+4663,Puebla,130,4,244
+4664,Querétaro,130,4,245
+4665,Quintana Roo,130,4,246
+4666,San Luis Potosí,130,4,247
+4667,Sinaloa,130,4,248
+4668,Sonora,130,4,249
+4669,Tabasco,130,4,250
+4670,Tamaulipas,130,4,251
+4671,Tlaxcala,130,4,252
+4672,Veracruz de Ignacio de la Llave,130,4,253
+4673,Yucatán,130,4,254
+4674,Zacatecas,130,4,255
+131,Nicaragua,124,3,256
+132,Panama,124,3,257
+133,Venezuela,124,3,258
+134,Tropical Latin America,103,2,259
+135,Brazil,134,3,260
+4750,Acre,135,4,261
+4751,Alagoas,135,4,262
+4753,Amapá,135,4,263
+4752,Amazonas,135,4,264
+4754,Bahia,135,4,265
+4755,Ceará,135,4,266
+4756,Distrito Federal,135,4,267
+4757,Espírito Santo,135,4,268
+4758,Goiás,135,4,269
+4759,Maranhão,135,4,270
+4762,Mato Grosso,135,4,271
+4761,Mato Grosso do Sul,135,4,272
+4760,Minas Gerais,135,4,273
+4763,Pará,135,4,274
+4764,Paraíba,135,4,275
+4765,Paraná,135,4,276
+4766,Pernambuco,135,4,277
+4767,Piaui,135,4,278
+4768,Rio de Janeiro,135,4,279
+4769,Rio Grande do Norte,135,4,280
+4772,Rio Grande do Sul,135,4,281
+4770,Rondônia,135,4,282
+4771,Roraima,135,4,283
+4773,Santa Catarina,135,4,284
+4775,São Paulo,135,4,285
+4774,Sergipe,135,4,286
+4776,Tocantins,135,4,287
+136,Paraguay,134,3,288
+137,North Africa and Middle East,1,1,289
+138,North Africa and Middle East,137,2,290
+160,Afghanistan,138,3,291
+139,Algeria,138,3,292
+140,Bahrain,138,3,293
+141,Egypt,138,3,294
+142,Iran,138,3,295
+143,Iraq,138,3,296
+144,Jordan,138,3,297
+145,Kuwait,138,3,298
+146,Lebanon,138,3,299
+147,Libya,138,3,300
+148,Morocco,138,3,301
+149,Palestine,138,3,302
+150,Oman,138,3,303
+151,Qatar,138,3,304
+152,Saudi Arabia,138,3,305
+522,Sudan,138,3,306
+153,Syria,138,3,307
+154,Tunisia,138,3,308
+155,Turkey,138,3,309
+156,United Arab Emirates,138,3,310
+157,Yemen,138,3,311
+158,South Asia,1,1,312
+159,South Asia,158,2,313
+161,Bangladesh,159,3,314
+162,Bhutan,159,3,315
+163,India,159,3,316
+164,Nepal,159,3,317
+165,Pakistan,159,3,318
+4,"Southeast Asia, East Asia, and Oceania",1,1,319
+5,East Asia,4,2,320
+6,China,5,3,321
+7,North Korea,5,3,322
+8,Taiwan,5,3,323
+21,Oceania,4,2,324
+298,American Samoa,21,3,325
+25,Federated States of Micronesia,21,3,326
+22,Fiji,21,3,327
+351,Guam,21,3,328
+23,Kiribati,21,3,329
+24,Marshall Islands,21,3,330
+376,Northern Mariana Islands,21,3,331
+26,Papua New Guinea,21,3,332
+27,Samoa,21,3,333
+28,Solomon Islands,21,3,334
+29,Tonga,21,3,335
+30,Vanuatu,21,3,336
+9,Southeast Asia,4,2,337
+10,Cambodia,9,3,338
+11,Indonesia,9,3,339
+4709,Aceh,11,4,340
+4726,Bali,11,4,341
+4717,Bangka-Belitung Islands,11,4,342
+4725,Banten,11,4,343
+4715,Bengkulu,11,4,344
+4737,Gorontalo,11,4,345
+4720,Jakarta,11,4,346
+4713,Jambi,11,4,347
+4721,West Java,11,4,348
+4722,Central Java,11,4,349
+4724,East Java,11,4,350
+4729,West Kalimantan,11,4,351
+4731,South Kalimantan,11,4,352
+4730,Central Kalimantan,11,4,353
+4732,East Kalimantan,11,4,354
+4719,North Kalimantan,11,4,355
+4718,Riau Islands,11,4,356
+4716,Lampung,11,4,357
+4739,Maluku,11,4,358
+4740,North Maluku,11,4,359
+4727,West Nusa Tenggara,11,4,360
+4728,East Nusa Tenggara,11,4,361
+4742,Papua,11,4,362
+4741,West Papua,11,4,363
+4712,Riau,11,4,364
+4738,West Sulawesi,11,4,365
+4735,South Sulawesi,11,4,366
+4734,Central Sulawesi,11,4,367
+4736,Southeast Sulawesi,11,4,368
+4733,North Sulawesi,11,4,369
+4711,West Sumatra,11,4,370
+4714,South Sumatra,11,4,371
+4710,North Sumatra,11,4,372
+4723,Yogyakarta,11,4,373
+12,Laos,9,3,374
+13,Malaysia,9,3,375
+14,Maldives,9,3,376
+183,Mauritius,9,3,377
+15,Myanmar,9,3,378
+16,Philippines,9,3,379
+17,Sri Lanka,9,3,380
+186,Seychelles,9,3,381
+18,Thailand,9,3,382
+19,Timor-Leste,9,3,383
+20,Vietnam,9,3,384
+166,Sub-Saharan Africa,1,1,385
+167,Central Sub-Saharan Africa,166,2,386
+168,Angola,167,3,387
+169,Central African Republic,167,3,388
+170,Congo,167,3,389
+171,Democratic Republic of the Congo,167,3,390
+172,Equatorial Guinea,167,3,391
+173,Gabon,167,3,392
+174,Eastern Sub-Saharan Africa,166,2,393
+175,Burundi,174,3,394
+176,Comoros,174,3,395
+177,Djibouti,174,3,396
+178,Eritrea,174,3,397
+179,Ethiopia,174,3,398
+180,Kenya,174,3,399
+181,Madagascar,174,3,400
+182,Malawi,174,3,401
+184,Mozambique,174,3,402
+185,Rwanda,174,3,403
+187,Somalia,174,3,404
+435,South Sudan,174,3,405
+189,Tanzania,174,3,406
+190,Uganda,174,3,407
+191,Zambia,174,3,408
+192,Southern Sub-Saharan Africa,166,2,409
+193,Botswana,192,3,410
+194,Lesotho,192,3,411
+195,Namibia,192,3,412
+196,South Africa,192,3,413
+197,Swaziland,192,3,414
+198,Zimbabwe,192,3,415
+199,Western Sub-Saharan Africa,166,2,416
+200,Benin,199,3,417
+201,Burkina Faso,199,3,418
+202,Cameroon,199,3,419
+203,Cape Verde,199,3,420
+204,Chad,199,3,421
+205,Cote d'Ivoire,199,3,422
+206,The Gambia,199,3,423
+207,Ghana,199,3,424
+208,Guinea,199,3,425
+209,Guinea-Bissau,199,3,426
+210,Liberia,199,3,427
+211,Mali,199,3,428
+212,Mauritania,199,3,429
+213,Niger,199,3,430
+214,Nigeria,199,3,431
+215,Sao Tome and Principe,199,3,432
+216,Senegal,199,3,433
+217,Sierra Leone,199,3,434
+218,Togo,199,3,435
+44587,African Union,44587,0,1
+44534,Commonwealth,44534,0,1
+44535,Commonwealth High Income,44534,1,2
+44536,Commonwealth Middle Income,44534,1,15
+44537,Commonwealth Low Income,44534,1,46
+4743,European Union,4743,0,1
+44590,Four World Regions,44590,0,1
+44559,Africa,44590,1,2
+44560,America,44590,1,57
+44561,Asia,44590,1,92
+44562,Europe,44590,1,148
+44586,G20,44586,0,1
+44642,Nordic Region,44642,0,1
+44584,OECD Countries,44584,0,1
+479,WHO region,479,0,1
+44563,African Region,479,1,2
+44567,Eastern Mediterranean Region,479,1,50
+44566,European Region,479,1,73
+44564,Region of the Americas,479,1,125
+44565,South-East Asia Region,479,1,161
+44568,Western Pacific Region,479,1,173
+44591,World Bank Income Levels,44591,0,1
+44575,World Bank High Income,44591,1,2
+44578,World Bank Low Income,44591,1,63
+44577,World Bank Lower Middle Income,44591,1,95
+44576,World Bank Upper Middle Income,44591,1,147
+478,World Bank Regions,478,0,1
+239,East Asia & Pacific - WB,478,1,2
+240,Europe & Central Asia - WB,478,1,36
+241,Latin America & Caribbean - WB,478,1,86
+243,Middle East & North Africa - WB,478,1,121
+44638,North America,478,1,143
+244,South Asia - WB,478,1,147
+242,Sub-Saharan Africa - WB,478,1,156
