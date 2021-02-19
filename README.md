@@ -2,7 +2,11 @@
 
 This repository contains code used for analysis in Modelling a case for investment in the prevention and management of rheumatic heart disease in the African Union 2021-2030 
 
-The repository is currently in progress as code becomes sufficiently documented. 
+The repository is currently in progress as code becomes sufficiently documented. Full code expected to be pushed to repository by Feb 20.
+
+Note: Each piece of code typically has directory filepaths that will need to be filled shown by [Insert own directory]. Several pieces of code are designed to run both on 
+a cluster computing environment and locally (though with fewer draws of uncertainty if locally). There will be elements of the analysis that cannot be reproduced locally as they 
+require excessive amounts of RAM.
 
 Description of directories:
 
