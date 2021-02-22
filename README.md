@@ -23,7 +23,7 @@ Description of directories:
   whole, and the run key that specifies all of the parameters that varied in the different scenarios run
 
 2. functions -- contains functions used by multiple pieces of code in analysis (one to submit jobs to computing cluster, one that maps GBD IDs to names, one that swaps names
-of locations that vary by input source
+of locations that vary by input source)
 
 3. model_code -- contains code used to do final prep of inputs and to run model
 
