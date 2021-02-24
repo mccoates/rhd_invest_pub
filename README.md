@@ -58,8 +58,36 @@ of locations that vary by input source)
     
     xi. functions_separate_causes_uncert.R -- function that does the year-to-year calculations for the health impact model
     
+  ## 4. other_code -- contains certian code to create results (for appendix)
   
+    a. country_scenario_results.R -- contains code to examine results from the scenarios that were run for particular countries
     
+    b. cumulative_ROI.R -- contains code to examine benefit-cost ratio for each year using cumulative cost and benefits (main results calculated for whole time range)
     
+    c. model_states_plot.R -- plots results for more model states for appendix
+    
+    d. UI_draw_tests.R -- examines uncertainty intervals for run with 4000 draws for appendix
+  
+  ## 5. prep_code -- contains code used to prep inputs from raw data (sometimes to compress to smaller files so that data could be stored in git repository)
+  
+    a. calc_gni_for_vsl.R -- formatting GNI input
+    
+    b. dismod_ihdenvelope_mort_params.R -- create death numbers for calibration for main approach (DisMod/CODEm hybrid deaths using a CVD envelope)
+    
+    c. fiji_mort_parameters.R -- examine Fiji mortality numbers in appendix
+    
+    d. gbd_longitudinal_hf_inc_derive.R -- derive HF incidence implied by the GBD estimates
+    
+    e. gni_gdp_projections.R -- create projections of GDP/GNI for costing/health impact monetization
+    
+    f. pharyngitis_meta_analysis.R -- redo meta-analysis for pharyngitis cases (see appendix)
+    
+    g. prep_gbd_inputs.R -- take GBD data and format for easier use
+    
+    h. soweto_hf_inc_parameter.R -- derive HF transition probabilities using alternative death pattern from Heart of Soweto study
+    
+    i. wpp_mort_fert_projections.R -- project mortality and fertility using WPP estimates
+    
+
     
     
