@@ -15,7 +15,7 @@ Description of directories:
     b. id_maps -- contains files that link IDs to names of GBD variables, allowing the files in the gbd_inputs folder to be saved as smaller files
     c. other_inputs -- contains input data from e.g. World Bank GDP/GNI numbers, IMF WEO estimates, data extracted directly from studies, and intermediate data files that were somewhat processed (e.g. derived from GBD and other estimates, UN WPP estimates that were processed and formatted)
   
-  Additionally, 3 files--a spreadsheet of AU member states with regions, the input parameters regardning intervention effect sizes and target coverage assumed in the AU as a
+  Additionally, 3 files--a spreadsheet of AU member states with regions, the input parameters regarding intervention effect sizes and target coverage assumed in the AU as a
   whole, and the run key that specifies all of the parameters that varied in the different scenarios run
 
 ## 2. functions -- contains functions used by multiple pieces of code in analysis (one to submit jobs to computing cluster, one that maps GBD IDs to names, one that swaps names
