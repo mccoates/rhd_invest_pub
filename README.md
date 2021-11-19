@@ -1,6 +1,8 @@
 # RHD Investment Case Modelling
 
 This repository contains code used for analysis in Modelling a case for investment in the prevention and management of rheumatic heart disease in the African Union 2021-2030 
+https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(21)00199-6/fulltext
+
 
 The repository is currently in progress as code becomes sufficiently documented. Full code expected to be pushed to repository by Feb 20.
 
